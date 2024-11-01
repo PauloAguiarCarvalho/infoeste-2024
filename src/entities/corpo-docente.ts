@@ -4,5 +4,4 @@ export type CorpoDocente = {
     graduacao: string;
     foto: string;
     email: string;
-
 }
